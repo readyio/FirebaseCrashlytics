@@ -1,10 +1,4 @@
 *.cubemap filter=lfs diff=lfs merge=lfs -text
-Assets/ReadyGamesNetworkInternal/AvatarModule/AvatarAssets/Rooms/ filter=lfs diff=lfs merge=lfs -text
-Assets/ReadyGamesNetworkInternal/AvatarModule/AvatarAssets/Rooms/PinkRoom_00/PinkRoom_00.fbx filter=lfs diff=lfs merge=lfs -text
-Assets/ReadyGamesNetworkInternal/AvatarModule/AvatarAssets/Rooms/IndustrialRoom_00 filter=lfs diff=lfs merge=lfs -text
-Assets/ReadyGamesNetworkInternal/AvatarModule/AvatarAssets/Rooms/** filter=lfs diff=lfs merge=lfs -text
-Assets/ReadyGamesNetworkInternal/AvatarModule/AvatarAssets/_OnHold/** filter=lfs diff=lfs merge=lfs -text
-
 # 3D models
 *.3dm filter=lfs diff=lfs merge=lfs -text
 *.3ds filter=lfs diff=lfs merge=lfs -text
